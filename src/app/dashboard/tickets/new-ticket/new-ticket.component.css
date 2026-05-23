@@ -1,0 +1,12 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  justify-content: center;
+
+}
+form lable,
+form input,
+form textarea {
+  display: block;
+}
